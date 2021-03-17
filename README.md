@@ -1,3 +1,5 @@
+### Hi there, I'm Diogo 👋
+------------
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fullonic&count_private=true&theme=gruvbox )](https://github.com/anuraghazra/github-readme-stats)
@@ -5,7 +7,7 @@
 <!--
 **fullonic/fullonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fullonic)](https://github.com/anuraghazra/github-readme-stats)
-### Hi there 👋
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
